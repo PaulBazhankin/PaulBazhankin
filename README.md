@@ -1,1 +1,1 @@
-<a /href="siberia.ru">Lenin</a>
+C#C#C#C# is good. C++ sucks
